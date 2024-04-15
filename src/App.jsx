@@ -18,9 +18,9 @@ function App() {
     <>
       {/* <Message/>
       <Languages/> */}
-      {/* <Counter/> */}
+      <Counter/>
       {/* <ChangeName name={name} onUpdate={()=>setName("HAR HAR MAHADEV")}/> */}
-      <ControlledName name={name} onUpdate={()=>setName("MCA")}/>
+      {/* <ControlledName name={name} onUpdate={()=>setName("MCA")}/> */}
       {/* <ControlledInfo/> */}
     </>
   );
